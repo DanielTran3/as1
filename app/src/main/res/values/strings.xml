@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DTran3-HabitTracker</string>
+    <string name="activity_new_habit">Create a New Habit</string>
+    <string name="activity_completions_habit">Habit Completions</string>
+    <string name="new_habit">+</string>
+    <string name="input_date">Click Here to Input a Date</string>
+    <string name="Sunday">Sunday</string>
+    <string name="Monday">Monday</string>
+    <string name="Tuesday">Tuesday</string>
+    <string name="Wednesday">Wednesday</string>
+    <string name="Thursday">Thursday</string>
+    <string name="Friday">Friday</string>
+    <string name="Saturday">Saturday</string>
+    <string name="entered_habit_name">Enter Habit</string>
+    <string name="entered_date">DATE:</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
