@@ -12,6 +12,7 @@ public class HabitTest extends TestCase
         String testName = "Work";
         String testDate = "2016-02-23";
         ArrayList<String> testHabitRepeatDays = new ArrayList<String>();
+        testHabitRepeatDays.add("Monday");
 
         Habit habit = new Habit(testName, testDate, testHabitRepeatDays);
 
