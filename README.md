@@ -11,6 +11,11 @@ To complete a habit: Click on the habit and press "COMPLETE" <br>
 To view a habit's completions: Click on the habit and press "VIEW COMPLETIONS" <br>
 ->To delete a habit completion: Click on the completion that you want to delete
 
+## Credit/Citation
+Due to the scatter of some of the functionality, I will include credits here. <br>
+The file persistence of loading and saving using Gson came from lonelyTwitter <br>
+Some of the controller and observer patterns come from StudentPicker saga on Abram's YouTube.
+
 ## Project Information
 Gradle Version: 2.14.1 <br>
 Android Plugin Version: 2.1.3 <br>
